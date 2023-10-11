@@ -17,6 +17,7 @@ public class Rectangle {
             for (int j = 1; j <= length; j++) {
                 System.out.print(8);
             }
+        System.out.println();
         }
     }
 
