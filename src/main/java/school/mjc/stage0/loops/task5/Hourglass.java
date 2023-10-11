@@ -10,7 +10,7 @@ public class Hourglass {
             }
             for ( int k = height - i; k > 0; k-- )
             {
-                System.out.print( "* " );
+                System.out.print( "8 " );
             }
             System.out.println();
         }
@@ -22,7 +22,7 @@ public class Hourglass {
             }
             for ( int k = 0; k < i + 1; k++ )
             {
-                System.out.print( "* " );
+                System.out.print( "8 " );
             }
             System.out.println();
         }
